@@ -9,14 +9,14 @@ export default function Testimonials() {
             </article>
 
             <section className="testimonials-cards">
-                <TestimonialCard name="Linda Smith" description="This is the best Mediterranean food that I've ever had!"/>
-                <TestimonialCard name="Emma Thompson" description="The cozy atmosphere and the amazing flavors of Little Lemon's dishes left me wanting more!"/>
-                <TestimonialCard name="Samuel Lee" description="Little Lemon takes Mediterranean cuisine to a whole new level. Absolutely delicious!"/>
-                <TestimonialCard name="Sophia Garcia" description="A true gem for Mediterranean food lovers. Little Lemon's flavors are outstanding!"/>
-                <TestimonialCard name="Oliver Johnson" description="From the moment I stepped in, Little Lemon's warm staff and mouthwatering dishes made me feel right at home."/>
-                <TestimonialCard name="Ella Davis" description="After a long flight, Little Lemon's food was a delightful treat. The flavors exceeded my expectations!"/>
-                <TestimonialCard name="William Wilson" description="Little Lemon is a culinary paradise. The food here is phenomenal and a must-visit for all foodies in Chicago!"/>
-                <TestimonialCard name="Charlotte Brown" description="Little Lemon provided the perfect dinner experience for me after a tiring study session. I can't wait to order again!"/>
+            <TestimonialCard name="John Anderson" description="An exquisite Mediterranean dining experience. Little Lemon is truly unforgettable!"/>
+    <TestimonialCard name="Emily Wilson" description="The cozy ambiance and delicious dishes made my dining experience truly special."/>
+    <TestimonialCard name="Daniel Thompson" description="Little Lemon's Mediterranean dishes are a culinary masterpiece. The flavors are unmatched!"/>
+    <TestimonialCard name="Sophie Clark" description="A hidden gem with tasty Mediterranean cuisine. Little Lemon is definitely a must-visit!"/>
+    <TestimonialCard name="James Roberts" description="The friendly staff, cozy atmosphere, and incredibly delicious food make Little Lemon my top choice!"/>
+    <TestimonialCard name="Amelia Brown" description="After a long journey, the heavenly flavors of Little Lemon's Mediterranean food were a delight to my taste buds."/>
+    <TestimonialCard name="Jacob Davis" description="Little Lemon's dishes are an explosion of flavors! A must-try for all food enthusiasts in Chicago!"/>
+    <TestimonialCard name="Grace Wilson" description="I had an extraordinary dinner experience at Little Lemon. The food was superb, and I can't wait to order again!"/>
             </section>
 
             <section className="testimonials-carousel">
